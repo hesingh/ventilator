@@ -18,7 +18,8 @@ https://github.com/apollobvm/apollobvm
 
 # Virgin Orbit's Ambu Bag ventilator
 
-https://www.wired.com/story/race-build-more-ventilators-coronavirus/
+https://virginorbit.com/virgin-orbit-uci-and-ut-austin-design-new-mass-producible-ventilator-for-covid-19-patients/
+
 
 # Yet Another Ambu bag ventilator with Arduino source code.
 
