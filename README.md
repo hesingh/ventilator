@@ -20,6 +20,10 @@ https://e-vent.mit.edu/
    I suspect MIT is at least few weeks away to complete software,
    and documentation.
 
+# Vanderbilt U. Ambu Bag ventilator
+
+https://www.youtube.com/watch?v=vdLXp7uGFX4&feature=youtu.be
+
 # Virgin Orbit's Ambu Bag ventilator
 
 https://virginorbit.com/virgin-orbit-uci-and-ut-austin-design-new-mass-producible-ventilator-for-covid-19-patients/
