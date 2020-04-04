@@ -26,7 +26,7 @@ https://virginorbit.com/virgin-orbit-uci-and-ut-austin-design-new-mass-producibl
 
 Also see, https://media.wired.com/clips/5e852d038dd572000828b715/master/pass/Transpoo_Ventilatorbroll.mp4
 
-# Yet Another Ambu bag ventilator with Arduino source code.
+# Yet Another Ambu bag ventilator with Arduino Source Code
 
 https://github.com/ermtl/Open-Source-Ventilator
 
@@ -44,7 +44,18 @@ https://tinyurl.com/ur3qmd5
 
 The device is too long.  Hospital beds are likely to be closer together and multiple devices setup will be tricky.  The device also needs wall mounts.
 
-# IIT Kanpur ventilator
+# IIT Kanpur incubator \(in Pune\) ventilator
 
 https://www.youtube.com/watch?v=X9gFanQHSrE
 
+# IIT Hyderabad incubator ventilators
+
+## Lite version
+
+https://www.aerobiosys.com/jeevan-lite
+
+Looking at the device picture, I don't have a clue what pipe goes to the patient and how the device pumps air, manually or mechanically.
+
+## ICU Version
+
+https://www.aerobiosys.com/
