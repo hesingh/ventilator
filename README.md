@@ -63,3 +63,8 @@ Looking at the device picture, I don't have a clue what pipe goes to the patient
 ## ICU Version
 
 https://www.aerobiosys.com/
+
+# MPS with MIT e-vent
+
+https://www.monolithicpower.com/en/mps-open-source-ventilator
+
