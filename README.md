@@ -1,5 +1,7 @@
 # Rice University's Ambu bag ventilator
 
+https://www.youtube.com/watch?v=oLQ5bXakWq8&feature=youtu.be
+
 ## Details
    Version 0 does not support sensor.  Uses 500 cc of air to patient.
    Device is complete with software, BOM, CAD designs, etc.
@@ -10,6 +12,8 @@ https://github.com/apollobvm/apollobvm
 
 
 # MIT's Ambu bag ventilator
+
+https://e-vent.mit.edu/
 
 ## Details
    Software is not complete, nor is BOM.  CAD files are complete.
