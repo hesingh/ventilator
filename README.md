@@ -16,3 +16,8 @@ https://github.com/apollobvm/apollobvm
    I suspect MIT is at least few weeks away to complete software,
    and documentation.
 
+# Virgin Ambu Bag ventilator
+
+https://www.wired.com/story/race-build-more-ventilators-coronavirus/
+
+# 
