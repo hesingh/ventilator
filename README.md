@@ -36,3 +36,12 @@ Arduino source code is here in the above repo:
 
 https://github.com/ermtl/Open-Source-Ventilator/blob/master/OpenSourceVentilator/OpenSourceVentilator.ino
 
+# IIT Rookee and AIIMS Rishikesh ventilator
+
+https://tinyurl.com/ur3qmd5
+
+## IIT Kanpur ventilator
+
+https://www.youtube.com/watch?v=X9gFanQHSrE
+
+
