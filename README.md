@@ -2,7 +2,7 @@
 
 ## Details
    Version 0 does not support sensor.  Uses 500 cc of air to patient.
-   Device is complete with softwate, BOM, CAD designs, etc.
+   Device is complete with software, BOM, CAD designs, etc.
    
 ## Software
 
