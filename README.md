@@ -20,4 +20,13 @@ https://github.com/apollobvm/apollobvm
 
 https://www.wired.com/story/race-build-more-ventilators-coronavirus/
 
-# 
+# Yet Another Ambu bag ventilator with Arduino source code.
+
+https://github.com/ermtl/Open-Source-Ventilator
+
+The device lists a pressure sensor part, viz., Bosch Sensortech BME280 / BMP280 sensor
+
+Arduino source code is here in the above repo:
+
+https://github.com/ermtl/Open-Source-Ventilator/blob/master/OpenSourceVentilator/OpenSourceVentilator.ino
+
