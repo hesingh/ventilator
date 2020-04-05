@@ -1,3 +1,10 @@
+The thought process behind the list is to not include the kitchen sink of ventilators out there.  One criteria for exclusion is if the Ambu bag ventilator is too costly (e.g. Umbulizer, $2k) and also has a patent dispute.  A kitchen sink for ventilator list is included at this repo: https://github.com/PubInv/covid19-vent-list - for example, this repo lists a ventilator with no information, viz., http://www.pakengimed.com/ncov/.  The PubInv repo also includes the Umbulizer, but this list has excluded it as exaplained above.
+The PubInv repo includes good info for learning ventilator.
+
+So far a spreadsheet like comparison has not been made because many ventilators do not provide any details.  
+
+Both MIT and Rice ventilstors use gears. Prototype gears are made out of plastic, acrylic, or aluminium which wear out sooner and won't work in production design.  I think the Virgin Orbit ventilator mechanical design does not use any gears which reduces the number of parts and makes volume prouduction easier and faster.
+
 # Rice University's Ambu bag ventilator
 
 https://www.youtube.com/watch?v=oLQ5bXakWq8&feature=youtu.be
