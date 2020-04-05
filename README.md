@@ -37,6 +37,10 @@ https://virginorbit.com/virgin-orbit-uci-and-ut-austin-design-new-mass-producibl
 
 Also see, https://media.wired.com/clips/5e852d038dd572000828b715/master/pass/Transpoo_Ventilatorbroll.mp4
 
+## Details
+
+Plans to control three key variables: breaths per minute; tidal volume, which is how much air comes out of the bag; and the inspiratory-expiratory profile, which the time spent breathing in versus breathing out. The first is a function of motor speed, adjusted with a dial. The others can be adjusted by swapping out parts. To change tidal volume, a user can hook up a smaller or larger version of the piece that pushes on the bag. The shape of the rotating cam (think of a lumpy potato versus a round one) defines how much of the time the bag is being compressed, and thus the inspiratory-expiratory rate.
+
 # Yet Another Ambu bag ventilator with Arduino Source Code
 
 https://github.com/ermtl/Open-Source-Ventilator
