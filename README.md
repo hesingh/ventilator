@@ -27,6 +27,11 @@ https://e-vent.mit.edu/
    I suspect MIT is at least few weeks away to complete software,
    and documentation.
 
+## Use
+
+Any solution should be utilized only in a healthcare setting with direct monitoring by a clinical professional. While it cannot replace an FDA-approved ICU ventilator, in terms of functionality, flexibility, and clinical efficacy, the MIT E-Vent is anticipated to have utility in helping free up existing supply or in life-or-death situations when there is no other option.
+
+
 # Vanderbilt U. Ambu Bag ventilator
 
 https://www.youtube.com/watch?v=vdLXp7uGFX4&feature=youtu.be
@@ -50,6 +55,19 @@ The device lists a pressure sensor part, viz., Bosch Sensortech BME280 / BMP280 
 Arduino source code is here in the above repo:
 
 https://github.com/ermtl/Open-Source-Ventilator/blob/master/OpenSourceVentilator/OpenSourceVentilator.ino
+
+
+# Non ICU CPAP solution from Berkeley
+
+https://engineering.berkeley.edu/news/2020/04/turning-sleep-apnea-machines-into-ventilators/?fbclid=IwAR3OaNjvIHbSCknEq4KBEVEtKZ0Q8bVGPm7hKNCjRldSGTdFAFKj04byW-I
+
+
+Also see https://www.ventilatorsos.com/our-solution.html
+
+# MPS with MIT e-vent
+
+https://www.monolithicpower.com/en/mps-open-source-ventilator
+
 
 # IIT Rookee and AIIMS Rishikesh ventilator
 
@@ -75,15 +93,6 @@ Looking at the device picture, I don't have a clue what pipe goes to the patient
 
 https://www.aerobiosys.com/
 
-# MPS with MIT e-vent
-
-https://www.monolithicpower.com/en/mps-open-source-ventilator
-
-# Non ICU CPAP solution from Berkeley
-
-https://engineering.berkeley.edu/news/2020/04/turning-sleep-apnea-machines-into-ventilators/?fbclid=IwAR3OaNjvIHbSCknEq4KBEVEtKZ0Q8bVGPm7hKNCjRldSGTdFAFKj04byW-I
-
-Also see https://www.ventilatorsos.com/our-solution.html
 
 
 
