@@ -78,12 +78,6 @@ Arduino source code is here in the above repo:
 https://github.com/ermtl/Open-Source-Ventilator/blob/master/OpenSourceVentilator/OpenSourceVentilator.ino
 
 
-## Non ICU CPAP solution from Berkeley
-
-https://engineering.berkeley.edu/news/2020/04/turning-sleep-apnea-machines-into-ventilators/?fbclid=IwAR3OaNjvIHbSCknEq4KBEVEtKZ0Q8bVGPm7hKNCjRldSGTdFAFKj04byW-I
-
-Also see https://www.ventilatorsos.com/our-solution.html
-
 ## MPS with MIT e-vent
 
 https://www.monolithicpower.com/en/mps-open-source-ventilator
