@@ -1,4 +1,4 @@
-There are two kinds of bridge ventilator devices being worked on during the Covid-19 pandemic. Both types are for use in a non-ICU setting.  Note, an ICU vs. non-ICU use of ventilator for Covid-19 patients has an interesting requirement.  It is common that Covid-19 patients are using a ventilator in ICU for 21 days.  In contrast, with a non-Covid-19 medical issue in ICU has a patient averaging 3-4 days. This is why bridge devices should not be used an in ICU because the devices may not be able run continously for 21 days.   
+There are two kinds of bridge ventilator devices being worked on during the Covid-19 pandemic. Both types are for use in a non-ICU setting.  Note, an ICU vs. non-ICU use of ventilator for Covid-19 patients has an interesting requirement.  It is common that Covid-19 patients are using a ventilator in ICU for 21 days.  In contrast, with a non-Covid-19 medical issue, a patient averages 3-4 days in ICU. This is why bridge devices should not be used an in ICU because the devices may not be able run continously for 21 days.   
 
 The two types are:
 
