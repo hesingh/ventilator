@@ -17,6 +17,10 @@ https://engineering.berkeley.edu/news/2020/04/turning-sleep-apnea-machines-into-
 
 Also see https://www.ventilatorsos.com/our-solution.html
 
+## Details
+
+Uses an external Oxygen tank. Filters exhaled air otherwise the room gets contimated with Covid-19.  Also, uses a tube inserted into patient's trachea vs. a mouth piece.
+
 # Ambu bag and other kind of ventilators
 
 The thought process behind the list is to not include the kitchen sink of ventilators out there.  One criteria for exclusion is if an Ambu bag ventilator is too costly (e.g. Umbulizer, $2k) and also has a patent dispute.  A kitchen sink for ventilator list is included at this repo: https://github.com/PubInv/covid19-vent-list - however, this repo lists a ventilator with no information, viz., http://www.pakengimed.com/ncov/.  The PubInv repo also includes the Umbulizer, but this list has excluded it as explained above.
