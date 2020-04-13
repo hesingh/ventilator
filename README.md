@@ -3,7 +3,7 @@ There are two kinds of bridge ventilator devices being worked on during the Covi
 The two types are:
 
 1. Ambu bag version which automates compressing/releasing of the bag to generate air flow to the patient.
-2. Modified CPAP or BiPAP devices
+2. Modified CPAP or BiPAP devices.
 
 Please also read this medical article regarding ventilators and Covid-19:  
 
