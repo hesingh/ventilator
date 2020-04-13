@@ -9,9 +9,9 @@ Please also read this medical article regarding ventilators and Covid-19:
 
 https://www.statnews.com/2020/04/08/doctors-say-ventilators-overused-for-covid-19/
 
-Having read the article, I have moved modified-CPAP ventilator from Berkeley to top of the list.
+Having read the article, I have moved the modified-CPAP ventilator from UC/Berkeley (Cal) to top of the list.
 
-# Non ICU CPAP solution from Berkeley
+# Non ICU CPAP solution from Cal
 
 https://engineering.berkeley.edu/news/2020/04/turning-sleep-apnea-machines-into-ventilators/?fbclid=IwAR3OaNjvIHbSCknEq4KBEVEtKZ0Q8bVGPm7hKNCjRldSGTdFAFKj04byW-I
 
