@@ -51,6 +51,12 @@ https://e-vent.mit.edu/
    Software is not complete, nor is BOM.  CAD files are complete.
    I suspect MIT is at least few weeks away to complete software,
    and documentation.
+   
+   Mechanical and Electrical BOMs have been releases.
+   
+   The cost of the device is around $1000.
+   
+   THe Honeywell pressure sensor costs $65 and is out of stock.  MIT has also recommended to use an analog sensor for quick monitoring.
 
 ### Use
 
