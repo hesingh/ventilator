@@ -52,7 +52,7 @@ https://e-vent.mit.edu/
    I suspect MIT is at least few weeks away to complete software,
    and documentation.
    
-   Mechanical and Electrical BOMs have been releases.
+   Mechanical and Electrical BOMs have been released.
    
    The cost of the device is around $1000.
    
