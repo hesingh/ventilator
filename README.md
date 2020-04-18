@@ -105,6 +105,8 @@ The device is too long.  Hospital beds are likely to be closer together and mult
 
 https://www.youtube.com/watch?v=X9gFanQHSrE
 
+Also see, https://www.bbc.com/news/world-asia-india-52106565
+
 ## IIT Hyderabad incubator ventilators
 
 ### Lite version
