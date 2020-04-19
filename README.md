@@ -97,6 +97,10 @@ https://www.monolithicpower.com/en/mps-open-source-ventilator
 
 https://ventilator.stanford.edu/
 
+### Comment
+
+Useless since the design is not open.
+
 ## IIT Rookee and AIIMS Rishikesh ventilator
 
 https://tinyurl.com/ur3qmd5
