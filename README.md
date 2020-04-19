@@ -11,7 +11,7 @@ https://www.statnews.com/2020/04/08/doctors-say-ventilators-overused-for-covid-1
 
 Having read the article, I have moved the modified-CPAP ventilator from UC/Berkeley (Cal) to top of the list.
 
-# Non ICU CPAP solution from Cal
+# Non-ICU CPAP solution from Cal
 
 https://engineering.berkeley.edu/news/2020/04/turning-sleep-apnea-machines-into-ventilators/?fbclid=IwAR3OaNjvIHbSCknEq4KBEVEtKZ0Q8bVGPm7hKNCjRldSGTdFAFKj04byW-I
 
@@ -92,6 +92,10 @@ https://github.com/ermtl/Open-Source-Ventilator/blob/master/OpenSourceVentilator
 
 https://www.monolithicpower.com/en/mps-open-source-ventilator
 
+
+## Stanford ventilator
+
+https://ventilator.stanford.edu/
 
 ## IIT Rookee and AIIMS Rishikesh ventilator
 
