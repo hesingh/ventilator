@@ -52,6 +52,8 @@ https://e-vent.mit.edu/
    I suspect MIT is at least few weeks away to complete software,
    and documentation.
    
+   Device has been tested with a porcine animal using spirometer to log air volume.
+   
    Mechanical and Electrical BOMs have been released.
    
    The cost of the device is around $1000.
@@ -69,6 +71,8 @@ https://git.ist.ac.at/technology-transfer/ist-emergency-ventilator
 ### Details
 
 Based on MIT e-vent but includes source code to the Arduino board.  MIT still hasn't released their code.
+
+Has been tested with artificial lung.
 
 ## UT 
 
